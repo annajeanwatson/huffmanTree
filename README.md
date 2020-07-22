@@ -1,2 +1,2 @@
-# CSCI 232
-a simple implimentation of a Huffman tree
+# Huffman Tree
+A simple implimentation of a Huffman tree.
