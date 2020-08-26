@@ -1,5 +1,5 @@
 
-package tacos;
+package myHuffmanTree;
 
 import java.io.File;
 import java.io.PrintWriter;
@@ -16,7 +16,7 @@ import java.util.Scanner;
  * decodes the message, and then outputs the message to the output file
  * 
  */
-public class Tacos 
+public class MyHuffmanTree 
 {
 
     public static void main(String[] args) throws Exception

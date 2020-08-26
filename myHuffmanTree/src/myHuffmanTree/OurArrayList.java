@@ -1,5 +1,5 @@
 
-package tacos;
+package myHuffmanTree;
 
 import java.util.ArrayList;
 

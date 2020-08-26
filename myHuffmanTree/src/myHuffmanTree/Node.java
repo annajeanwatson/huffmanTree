@@ -1,5 +1,5 @@
 
-package tacos;
+package myHuffmanTree;
 
 public class Node {
     char letter;
